@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8192d168.css",
+    "main.js": "/static/js/main.adbb7797.js",
+    "static/js/787.0420ccf9.chunk.js": "/static/js/787.0420ccf9.chunk.js",
+    "static/media/background.png": "/static/media/background.524741ca8b399333e110.png",
+    "static/media/logo.png": "/static/media/logo.48112ee3eec284e6c592.png",
+    "static/media/Jobs.png": "/static/media/Jobs.4fa07c1f55930ba283aa.png",
+    "index.html": "/index.html",
+    "main.8192d168.css.map": "/static/css/main.8192d168.css.map",
+    "main.adbb7797.js.map": "/static/js/main.adbb7797.js.map",
+    "787.0420ccf9.chunk.js.map": "/static/js/787.0420ccf9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8192d168.css",
+    "static/js/main.adbb7797.js"
+  ]
+}

@@ -1,0 +1,155 @@
+.HeadingCourses{
+    font-weight: 500;
+    font-size: 40px;
+    color: #fff;
+    position: absolute; 
+    left: 5%;
+    top: 15%;
+    width: 41%;
+    
+    
+} 
+.adFree{
+    font-weight: 400;
+    font-size: 20px;
+    color: #fff;
+    position: absolute; 
+    left: 5%;
+    top: 75%;
+    width: 41%;
+}
+.scolarship{
+    font-weight: 400;
+    font-size: 20px;
+    color: #fff;
+    position: absolute; 
+    left: 5%;
+    top: 65%;
+    width: 41%;
+}
+.webnir{
+    font-weight: 400;
+    font-size: 20px;
+    color: #fff;
+    position: absolute; 
+    left: 5%;
+    top: 55%;
+    width: 41%;
+}
+.contant{
+    font-weight: 400;
+    font-size: 20px;
+    color: #fff;
+    position: absolute; 
+    left: 5%;
+    top: 45%;
+    width: 41%;
+}
+.JobText{
+    position: absolute; 
+    left: 25%;
+    top: 33%;
+    width: 50%;
+}
+.job{
+    font-weight: 400;
+    font-size: 20px;
+    color: #fff;
+    position: absolute; 
+    left: 5%;
+    top: 35%;
+    width: 41%;
+}
+
+.costDown{
+    text-decoration: line-through solid red 13%;
+}
+
+.rupees{
+    color: #0096ff;
+}
+.instructionLogo{
+height: 60px;
+width: 60px;
+padding: 15px;
+
+}
+
+@media screen and (min-width: 1440px) {
+    .HeadingCourses{
+        font-weight:7600;
+        font-size: 54px;
+        color: #fff;
+        position: absolute; 
+        left: 5%;
+        top: 15%;
+        width: 41%;
+        
+        
+    } 
+    .adFree{
+        font-weight: 600;
+        font-size: 30px;
+        color: #fff;
+        position: absolute; 
+        left: 5%;   
+        top: 75%;
+        width: 61%;
+    }
+    .scolarship{
+        font-weight: 600;
+        font-size: 30px;
+        color: #fff;
+        position: absolute; 
+        left: 5%;
+        top: 65%;
+        width: 61%;
+    }
+    .webnir{
+        font-weight: 600;
+        font-size: 30px;
+        color: #fff;
+        position: absolute; 
+        left: 5%;
+        top: 55%;
+        width: 61%;
+    }
+    .contant{
+        font-weight: 600;
+        font-size: 30px;
+        color: #fff;
+        position: absolute; 
+        left: 5%;
+        top: 45%;
+        width: 61%;
+    }
+    .JobText{
+        position: absolute; 
+        left: 25%;
+        top: 33%;
+        width: 50%;
+    }
+    .job{
+        font-weight: 600;
+        font-size: 30px;
+        color: #fff;
+        position: absolute; 
+        left: 5%;
+        top: 35%;
+        width: 61%;
+    }
+    
+    .costDown{
+        text-decoration: line-through solid red 13%;
+    }
+    
+    .rupees{
+        color: #0096ff;
+    }
+    .instructionLogo{
+    height: 60px;
+    width: 60px;
+    padding: 15px;
+    
+    }
+  }
